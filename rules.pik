@@ -1,0 +1,22 @@
+(dp0
+S'Xmms play'
+p1
+S'xmms --play'
+p2
+sS'Xmms next'
+p3
+S'xmms --fwd'
+p4
+sS'Xmms pause'
+p5
+S'xmms --pause'
+p6
+sS'Shutdown'
+p7
+S'shutdown now'
+p8
+sS'Xmms prev'
+p9
+S'xmms --rew'
+p10
+s.
