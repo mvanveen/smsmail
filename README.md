@@ -9,12 +9,4 @@ number (sent via SMS-to-email gateay).
 
 `smsmail` is one of the very first Python programs I ever wrote, circa November 2005.
 
-Things were different then
-AJAX and RSS feeds roamed the blogosphere
-
-We were young, but we fell in love
-I had been 16 years old for just two months
-
-Once we started neither of could stop
-We've been programming together ever since
-I love Python and think I always will
+As you can see, I primarily used it to control XMMS by way of text message.
